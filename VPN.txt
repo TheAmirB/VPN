@@ -1,28 +1,15 @@
-vless://6780a3c0-a98c-4622-b894-8e34167f7b31@104.26.1.108:443?encryption=none&security=tls&sni=blog.ruangguru.com.servpn.my.id&type=ws&host=blog.ruangguru.com.servpn.my.id&path=%2Fid5%3Fed%3D2560#🇺🇸 - US - 1
-vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?encryption=none&security=none&type=ws&host=&path=%2F#🇮🇷 - IR - 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.192:8080#🇳🇱 - NL - 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.192:8080#🇳🇱 - NL - 2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.192:8080#🇳🇱 - NL - 3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQU21xYTl1SzlPbzFlaXZQeVhpQUg4@83.147.216.70:64519#🇸🇪 - SE - 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.10:8080#🇳🇱 - NL - 4
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTkxsOE4xU2JRbkpURjBYU2Z0b0VR@83.147.216.70:64519#🇸🇪 - SE - 2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.178:8080#🇳🇱 - NL - 5
-vless://401374e6-df77-41fb-f638-dad8184f175b@92.53.188.36:443?encryption=none&security=tls&sni=pqh23v4.hiddendom.shop&alpn=h2&type=grpc#🇺🇸 - US - 2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8080#🇳🇱 - NL - 6
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5UnZpTmE0dHNjamNtQ0I0MDh2TFNn@46.101.245.131:44354#🇩🇪 - DE - 1
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDk2Q1x1RDlCMiAtIENBIC0gMSIsDQogICJhZGQiOiAiNTEuNzkuODYuMTgyIiwNCiAgInBvcnQiOiAiNDI2MTAiLA0KICAiaWQiOiAiZTA5NTdjYTYtZjYxMy00MDE3LWZmM2MtZWZmZDFkYTg4NzFhIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.92:8080#🇳🇱 - NL - 7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#🇨🇦 - CA - 2
-vless://401374e6-df77-41fb-f638-dad8184f175b@102.177.189.251:443?encryption=none&security=tls&sni=pqh23v4.hiddendom.shop&alpn=h2&fp=chrome&type=grpc#🇬🇧 - GB - 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYVU1UeWdFTTFqVllJdnlzWEtxQTVU@hackney-latest-strike.freesocks.work:443#🇺🇸 - US - 3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.209:8080#🇳🇱 - NL - 8
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXbURoVlNpRGlqN1IyWFJPcjNDbTU1@83.147.216.70:64519#🇸🇪 - SE - 3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg%3D%3D@18.162.146.85:8319#🇭🇰 - HK - 1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg%3D%3D@18.139.0.110:8313#🇸🇬 - SG - 1
-trojan://e4cbe8b8-37db-4aaa-8469-b84f34c51ebc@104.21.14.54:443?security=tls&sni=6666YHjU.777159.xYz&type=ws&host=6666yhju.777159.xyz&path=%2F#🇺🇸 - US - 4
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg%3D%3D@54.238.207.188:8319#🇯🇵 - JP - 1
-ss://YWVzLTEyOC1nY206MTAwODY%3D@153.121.51.214:10087#🇯🇵 - JP - 2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.166:8080#🇳🇱 - NL - 9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172#🇸🇪 - SE - 4
-
-vless://401374e6-df77-41fb-f638-dad8184f175b@92.53.188.36:443?alpn=h2&flow=&security=tls&sni=pqh23v4.hiddendom.shop&type=grpc#%F0%9F%9A%80%20-%20Best%20for%20Wi-Fi
+ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@109.201.152.181:443#%F0%9F%87%B3%F0%9F%87%B1%20-%20NL%20-%201
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.153.197.5:989#%F0%9F%87%B2%F0%9F%87%A9%20-%20MD%20-%201
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1hkckZTR0Q4Q2lqOWVENVRoTlht@fox-usa.outlinekeys.net:34868#%F0%9F%87%BA%F0%9F%87%B8%20-%20US%20-%201
+ss://YWVzLTI1Ni1nY206N2FlNGU2OGNmNzdmNjA4OQ@45.140.169.26:1901#%F0%9F%87%B7%F0%9F%87%BA%20-%20RU%20-%201
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@107.151.182.253:8080#%F0%9F%87%BA%F0%9F%87%B8%20-%20US%20-%202
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3RmFBWWVjMVlOd2ZHMnFmdzZ2WW5M@167.71.206.112:7337#%F0%9F%87%B8%F0%9F%87%AC%20-%20SG%20-%201
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3RmFBWWVjMVlOd2ZHMnFmdzZ2WW5M@167.71.206.112:7337#%F0%9F%87%B8%F0%9F%87%AC%20-%20SG%20-%202
+trojan://Aimer@188.164.159.174:2053/?type=tcp&security=tls&sni=agepj.ambercc.filegear-sg.me#%F0%9F%87%A6%F0%9F%87%B2%20-%20AM%20-%201
+vless://401374e6-df77-41fb-f638-dad8184f175b@102.177.189.251:443/?type=grpc&encryption=none&flow=&security=tls&sni=pqh23v4.hiddendom.shop&alpn=h2&fp=chrome#%F0%9F%87%AC%F0%9F%87%A7%20-%20GB%20-%201
+trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@de01a.kbservice.club:443/?type=tcp&security=tls&sni=45.32.28.232&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20-%20DE%20-%201
+trojan://bpb-trojan@104.19.35.14:443/?type=tcp&security=tls&sni=BPB-wOrkeR-pANel1-E4P.pageS.DeV#%F0%9F%87%BA%F0%9F%87%B8%20-%20US%20-%203
+trojan://bpb-trojan@104.18.107.117:443/?type=tcp&security=tls&sni=bpb.my79801.com#%F0%9F%87%BA%F0%9F%87%B8%20-%20US%20-%204
+trojan://bpb-trojan@104.17.147.22:2053/?type=tcp&security=tls&sni=bPB-worker-PANeL1-e4p.paGes.DeV#%F0%9F%87%BA%F0%9F%87%B8%20-%20US%20-%205
+trojan://wb6368@hsdgbuys.pages.dev:443/?type=tcp&security=tls&sni=hsdgbuys.pages.dev#%F0%9F%87%BA%F0%9F%87%B8%20-%20US%20-%206
+vless://401374e6-df77-41fb-f638-dad8184f175b@92.53.188.36:443/?type=grpc&encryption=none&flow=&security=tls&sni=pqh23v4.hiddendom.shop&alpn=h2#%F0%9F%9A%80%20-%20Best%20for%20Wi-Fi
