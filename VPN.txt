@@ -1,16 +1,8 @@
-ss://YWVzLTI1Ni1nY206N2FlNGU2OGNmNzdmNjA4OQ@45.140.169.26:1901#%F0%9F%87%B7%F0%9F%87%BA%20-%20RU%20-%201
-trojan://Aimer@154.197.64.248:8443/?type=tcp&security=tls&sni=agepj.ambercc.filegear-sg.me#%F0%9F%87%A9%F0%9F%87%AA%20-%20DE%20-%201
-ss://YWVzLTI1Ni1jZmI6VVRKQTU3eXBrMlhLUXBubQ@217.30.10.18:9033#%F0%9F%87%B7%F0%9F%87%BA%20-%20RU%20-%202
-ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@109.201.152.181:443#%F0%9F%87%B3%F0%9F%87%B1%20-%20NL%20-%201
-ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@109.201.152.181:443#%F0%9F%87%B3%F0%9F%87%B1%20-%20NL%20-%202
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.175:8080#%F0%9F%87%B3%F0%9F%87%B1%20-%20NL%20-%203
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@171.22.254.17:989#%F0%9F%87%B2%F0%9F%87%B9%20-%20MT%20-%201
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1hkckZTR0Q4Q2lqOWVENVRoTlht@fox-usa.outlinekeys.net:34868#%F0%9F%87%BA%F0%9F%87%B8%20-%20US%20-%201
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3RmFBWWVjMVlOd2ZHMnFmdzZ2WW5M@167.71.206.112:7337#%F0%9F%87%B8%F0%9F%87%AC%20-%20SG%20-%201
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dlgxdiNOU0ZQX0xHX2JK@172.236.31.248:808#%F0%9F%87%A9%F0%9F%87%AA%20-%20DE%20-%202
-trojan://wb6368@hsdgbuys.pages.dev:443/?type=tcp&security=tls&sni=hsdgbuys.pages.dev#%F0%9F%87%BA%F0%9F%87%B8%20-%20US%20-%202
-trojan://bpb-trojan@185.238.228.6:443/?type=tcp&security=tls&sni=403b3611-99bc-43b7-88D7-26Ed5D0825a9-3.PAgeS.dEv#%F0%9F%87%AA%F0%9F%87%B8%20-%20ES%20-%201
-trojan://bpb-trojan@185.238.228.6:443/?type=tcp&security=tls&sni=403b3611-99bc-43b7-88D7-26Ed5D0825a9-3.PAgeS.dEv#%F0%9F%87%AA%F0%9F%87%B8%20-%20ES%20-%202
-vless://401374e6-df77-41fb-f638-dad8184f175b@102.177.189.251:443/?type=grpc&encryption=none&flow=&security=tls&sni=pqh23v4.hiddendom.shop&alpn=h2&fp=chrome#%F0%9F%87%AC%F0%9F%87%A7%20-%20GB%20-%201
-vless://401374e6-df77-41fb-f638-dad8184f175b@92.53.188.36:443/?type=grpc&encryption=none&flow=&security=tls&sni=pqh23v4.hiddendom.shop&alpn=h2#%F0%9F%87%BA%F0%9F%87%B8%20-%20US%20-%203
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.153.197.5:989#%F0%9F%87%B2%F0%9F%87%A9%20-%20MD%20-%201
+vless://401374e6-df77-41fb-f638-dad8184f175b@102.177.189.251:443?security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=pqh23v4.hiddendom.shop#🇬🇧 - GB - 1
+vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?path=%2F57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&type=ws&sni=ovhwuxian.pai50288.uk#🇺🇸 - US - 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqWm9aWnFPUXZWUGRtREZ5OUR5VjZZ@94.159.96.245:11902#🇷🇺 - RU - 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U%3D@de15.giamping.com:8080#🇩🇪 - DE - 1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuWVJoVENaZFFMRXhLNmV3VkhnSFMybWx2NEZDeXNLeWV5VFRmaFJkRWdkZWVSTjA%3D@5.188.36.93:31348#🇷🇺 - RU - 2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuWVJoVENaZFFMRXhLNmV3VkhnSFMybWx2NEZDeXNLeWV5VFRmaFJkRWdkZWVSTjA%3D@5.188.36.93:31348#🇷🇺 - RU - 3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXVjdoYUdySmpSSTc%3D@77.83.245.50:443#🇷🇺 - RU - 4
+ss://YWVzLTI1Ni1jZmI6VVRKQTU3eXBrMlhLUXBubQ%3D%3D@217.30.10.18:9033#%F0%9F%87%B7%F0%9F%87%BA%20-%20RU%20-%202
